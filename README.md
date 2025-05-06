@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Halo, Selamat Datang di GitHub Saya!
 
-<!--
-**WhiteHAT62/WhiteHAT62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pembelajar seumur hidup yang sedang menapaki dunia pemrograman—sedikit demi sedikit, baris demi baris.
 
-Here are some ideas to get you started:
+## 💻 Bahasa yang Saya Gunakan
+Saya terbiasa menulis kode dalam beberapa bahasa, di antaranya:
+- 🐍 **Python** – favorit saya untuk eksplorasi data dan pengembangan aplikasi.
+- 💡 **C++** – untuk performa dan tantangan logika yang lebih dalam.
+- 🧩 **VBA** – karena kadang Excel juga bisa jadi arena eksperimen.
+- 🌐 **HTML & CSS** – membangun antarmuka yang rapi dan enak dipandang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 Asal Saya
+Saya tinggal tak jauh dari salah satu keajaiban dunia: **Candi Borobudur**. Inspirasi kuno berpadu dengan teknologi modern — siapa sangka keduanya bisa saling melengkapi?
+
+## 🤝 Senang Bisa Berbagi
+Terima kasih sudah mampir ke halaman GitHub saya. Jangan ragu untuk menjelajahi repositori yang saya buat—semoga ada sesuatu yang bermanfaat atau bahkan bisa jadi kolaborasi seru ke depannya!
+
+---
+
+> *"Setiap baris kode adalah langkah kecil menuju solusi besar."*  
+
