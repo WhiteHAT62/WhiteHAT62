@@ -6,7 +6,7 @@ Saya seorang pembelajar seumur hidup yang sedang menapaki dunia pemrograman—se
 Saya terbiasa menulis kode dalam beberapa bahasa, di antaranya:
 - 🐍 **Python** – favorit saya untuk eksplorasi data dan pengembangan aplikasi.
 - 💡 **C++** – untuk performa dan tantangan logika yang lebih dalam.
-- 📊 **MQL4 & MQL5** – untuk membangun *Expert Advisor*, indikator, dan alat bantu trading otomatis di platform MetaTrader.
+- 📊 **MQL4 & MQL5** – untuk membangun EA dan indikator yang beroperasi di pasar saham.
 - 🧩 **VBA** – karena kadang Excel juga bisa jadi arena eksperimen.
 - 🌐 **HTML & CSS** – membangun antarmuka yang rapi dan enak dipandang.
 
